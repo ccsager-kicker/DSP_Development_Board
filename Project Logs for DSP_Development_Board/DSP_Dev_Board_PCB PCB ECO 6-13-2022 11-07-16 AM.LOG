@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=* NewDesignator=U16
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetD14_K
+Change Net Name : Old Net Name=Net*_7 New Net Name=NetC104_2
+Change Net Name : Old Net Name=Net*_8 New Net Name=NetU6_5
+Change Net Name : Old Net Name=Net*_14 New Net Name=NetU6_27
+Change Net Name : Old Net Name=Net*_15 New Net Name=NetU6_22
+Change Net Name : Old Net Name=Net*_19 New Net Name=NetH9_1
+Change Net Name : Old Net Name=Net*_21 New Net Name=NetU6_21
+Change Net Name : Old Net Name=Net*_23 New Net Name=NetH9_4
+Change Net Name : Old Net Name=Net*_24 New Net Name=NetH9_5
+Change Net Name : Old Net Name=Net*_25 New Net Name=NetH9_6
+Change Net Name : Old Net Name=Net*_26 New Net Name=NetH10_5
+Change Net Name : Old Net Name=Net*_29 New Net Name=NetH10_4
+Change Net Name : Old Net Name=Net*_32 New Net Name=NetC47_1
+Change Net Name : Old Net Name=Net*_34 New Net Name=NetU6_26
+Change Net Name : Old Net Name=Net*_35 New Net Name=NetH10_3
+Change Net Name : Old Net Name=Net*_36 New Net Name=NetH10_2
+Change Net Name : Old Net Name=Net*_37 New Net Name=NetH8_6
+Change Net Name : Old Net Name=Net*_38 New Net Name=NetU6_20
+Change Net Name : Old Net Name=Net*_39 New Net Name=NetH8_5
+Change Net Name : Old Net Name=Net*_40 New Net Name=NetH8_4
+Change Net Name : Old Net Name=Net*_41 New Net Name=NetH8_3
+Change Net Name : Old Net Name=Net*_44 New Net Name=NetH8_2
+Change Net Name : Old Net Name=Net*_45 New Net Name=NetH8_1
+Change Net Name : Old Net Name=Net*_48 New Net Name=NetU6_23
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(158, 161, 117)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(158, 161, 117)
+Change Net Color : Old Net Color=RGB(255, 255, 153) New Net Color=RGB(255, 255, 153)
