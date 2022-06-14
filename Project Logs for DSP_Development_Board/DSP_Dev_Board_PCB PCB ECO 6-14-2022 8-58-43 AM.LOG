@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=5V Pin=D9-2
+Added Pin To Net: NetName=5V Pin=D10-2
+Added Pin To Net: NetName=5V Pin=D11-2
+Added Pin To Net: NetName=5V Pin=D12-2
+Change Net Name : Old Net Name=VMID New Net Name=NetC3_1
+Change Net Color : Old Net Color=White New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(158, 161, 117)
+Change Net Color : Old Net Color=RGB(255, 255, 153) New Net Color=RGB(255, 255, 153)
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=RGB(158, 161, 117)
