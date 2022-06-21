@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\cchri\source\repos\_Altium\DSP_Development_Board\DSP_Dev_Board_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dsp_dev_board_pcb.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=dsp_dev_board_pcb-rectholes.txt|DrillLayers=gtl,gp1,g1,gbl
